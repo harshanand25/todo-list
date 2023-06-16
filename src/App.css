@@ -1,0 +1,9 @@
+Form.Label {
+  text-align: center;
+}
+
+Form.group {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 270px;
+    width: 310px;
+}
